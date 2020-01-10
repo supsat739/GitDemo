@@ -2,14 +2,17 @@ Hello Word!!
 
 Welcome to git...
 
-feature 1 - Login - updated by team member for checking 3 way merging
+feature 1 -> Login - updated by team member for checking 3 way merging
 
-feature 2 - Logout
+feature 2 -> Logout
 
 
-bug1 - fixed
+bug1 -> fixed
 
-bug2 -  merged
+bug2 ->  merged
 
-Bug 2 - fixed
+Bug 2 -> fixed
+
+
+change added for rebase test
 
