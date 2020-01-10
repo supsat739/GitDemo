@@ -11,3 +11,5 @@ bug1 - fixed
 
 bug2 -  merged
 
+Bug 2 - fixed
+
