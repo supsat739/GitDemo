@@ -8,3 +8,5 @@ feature 2 - Logout
 
 
 bug1 - fixed
+
+bug2 -  merged
